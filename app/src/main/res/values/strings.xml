@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Nils Heuermann</string>
+    <string name="yellow_star_desc">A yellow star</string>
+    <string name="bio_contents">Hi,
+        \nMy name is Nils,
+        \nand I am trying to learn Kotlin, and with it write an app for Android.
+        \n
+        \nWith this, I want to become not a developer, but somebody being able to work in IT.
+        \nBecause my current job\'s surround staled quite a bit, and I cannot move my place of work so easily,
+        because the industry is down and nobody hires new people - they rather just all fire many of their people.
+        \n\nThat\'s how it is and we have to live with it, somehow.
+        \n\nStill not enough text.
+        \n\nNow?
+        \n\nNow!
+        \n\n</string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
